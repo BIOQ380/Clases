@@ -6,4 +6,6 @@
 
 - **[Clase 02 - Homología y bases de datos](https://github.com/BIOQ380/Clases/raw/master/clase02.pdf)**. 
 
-- **[Clase 03 - Alineamiento de secuencias](https://github.com/BIOQ380/Clases/raw/master/clase03.pdf)**. 
+- **[Clase 03 - Alineamiento de secuencias](https://github.com/BIOQ380/Clases/raw/master/clase03.pdf)**.  
+
+- **[Clase 03b - Alineamiento de secuencias](https://github.com/BIOQ380/Clases/raw/master/clase03b.pdf)**. 
