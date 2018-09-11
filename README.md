@@ -9,3 +9,7 @@
 - **[Clase 03 - Alineamiento de secuencias](https://github.com/BIOQ380/Clases/raw/master/clase03.pdf)**.  
 
 - **[Clase 03b - Alineamiento de secuencias](https://github.com/BIOQ380/Clases/raw/master/clase03b.pdf)**. 
+
+- **[Clase 04 - Filogenética](https://github.com/BIOQ380/Clases/raw/master/clase04.pdf)**. 
+
+
