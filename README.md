@@ -12,4 +12,6 @@
 
 - **[Clase 04 - Filogenética](https://github.com/BIOQ380/Clases/raw/master/clase04.pdf)**. 
 
+- **[Clase 05 - Ensamblaje de genomas](https://github.com/BIOQ380/Clases/raw/master/clase05.pdf)**. 
+
 
