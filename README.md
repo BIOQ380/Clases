@@ -14,4 +14,5 @@
 
 - **[Clase 05 - Ensamblaje de genomas](https://github.com/BIOQ380/Clases/raw/master/clase05.pdf)**. 
 
+- **[Clase 06 - Metagenómica](https://github.com/BIOQ380/Clases/raw/master/clase06.pdf)**
 
