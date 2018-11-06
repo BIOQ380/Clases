@@ -16,3 +16,4 @@
 
 - **[Clase 06 - Metagenómica](https://github.com/BIOQ380/Clases/raw/master/clase06.pdf)**
 
+- **[Clase 06 - Metagenómica - parte 2](https://github.com/BIOQ380/Clases/raw/master/Clase06b.pdf)**
