@@ -1,4 +1,4 @@
-# ![](https://github.com/bioinf-biotec/labs_bioinf/blob/master/images/presentation.png?raw=true) Clases
+# ![](https://github.com/BIOQ380/Taller/blob/master/images/presentation.png?raw=true) Clases
 
 ##### Aquí encontrarás los PDFs de las clases del curso Bioinformática y Genómica para Bioquímica UNAB 2018/2 (BIOQ380).
 
@@ -23,5 +23,5 @@
 ---
 
 <p align="center">
-<img width="50%" src="https://github.com/bioinf-biotec/labs_bioinf/blob/master/images/unab_cbib_horizontal.png?raw=true">
+<img width="50%" src="https://github.com/BIOQ380/Taller/blob/master/images/unab_cbib_horizontal.png?raw=true">
 </p>
