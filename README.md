@@ -1,6 +1,8 @@
 # ![](https://github.com/bioinf-biotec/labs_bioinf/blob/master/images/presentation.png?raw=true) Clases
 
-##### Aquí encontrarás los PDFs de las clases del curso Bioinformática y Genómica para Bioquímica UNAB 2018/2 (BIOQ380). 
+##### Aquí encontrarás los PDFs de las clases del curso Bioinformática y Genómica para Bioquímica UNAB 2018/2 (BIOQ380).
+
+##### Puedes descargar el syllabus del curso BIOQ380 correspondiente al segundo semestre de 2018 [AQUÍ](https://github.com/BIOQ380/Clases/raw/master/BIOQ380_Syllabus_2018-2.pdf).
 
 - **[Clase 01 - Introducción](https://github.com/BIOQ380/Clases/raw/master/clase01.pdf)**
 
