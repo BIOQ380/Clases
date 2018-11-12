@@ -16,4 +16,10 @@
 
 - **[Clase 06 - Metagenómica](https://github.com/BIOQ380/Clases/raw/master/clase06.pdf)**
 
-- **[Clase 06 - Metagenómica - parte 2](https://github.com/BIOQ380/Clases/raw/master/Clase06b.pdf)**
+- **[Clase 06b - Metagenómica, parte 2](https://github.com/BIOQ380/Clases/raw/master/Clase06b.pdf)**
+
+---
+
+<p align="center">
+<img width="50%" src="https://github.com/bioinf-biotec/labs_bioinf/blob/master/images/unab_cbib_horizontal.png?raw=true">
+</p>
